@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShadowDevRED
 - 👀 I’m interested in fn cheets
 - 🌱 I’m currently learning c# ( dev c++)
-- 💞️ I’m collaborating on redwareud
+- 💞️ I’m Owner of shadow solution
 - 📫 you can reach me on discord ( nexoruis )
 - 😄 Pronouns: nexoruis
 - ⚡ Fun fact: dev for soon 4 years 
